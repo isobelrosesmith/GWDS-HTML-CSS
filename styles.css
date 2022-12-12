@@ -78,3 +78,7 @@ a{
     height: 275px;
     padding: 4px;
 }
+.cake-group{
+    border: 2px solid green;
+    width: 275px;
+}
